@@ -1,0 +1,17 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Diseño de Software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Hanny Carballo",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

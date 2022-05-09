@@ -1,7 +1,7 @@
 # spiderverse
 
 Gracias a este proyecto en js aprendí a realizar TDD. 
-TDD pasos:
+1. TDD pasos:
 - Escribe una prueba de unidad.
 - Dentro de la prueba escribe el código tal cuál necesitas usar.
 - Corre la prueba y verifica que falle, pues no hay nada que probar.
